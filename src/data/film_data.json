@@ -1,0 +1,47 @@
+{
+    "films": [
+        {
+            "id": "Castle in the Sky",
+            "people": [
+                "Lusheeta Toel Ul Laputa",
+                "Pazu",
+                "Captain Dola",
+                "Colonel Muska",
+                "Laputian Robot"
+            ]
+        },
+        {
+            "id": "My Neighbor Totoro",
+            "people": [
+                "Satsuki Kusakabe",
+                "Mei Kusakabe",
+                "Totoro"
+            ]
+        },
+        {
+            "id": "Kiki's Delivery Service",
+            "people": [
+                "Kiki",
+                "Jiji",
+                "Tombo"
+            ]
+        },
+        {
+            "id": "Princess Mononoke",
+            "people": [
+                "Ashitaka",
+                "San",
+                "Shishigami"
+            ]
+        },
+        {
+            "id": "Spirited Away",
+            "people": [
+                "Chihiro Ogino",
+                "Haku",
+                "Kaonashi",
+                "Yuba-ba"
+            ]
+        }
+    ]
+}
